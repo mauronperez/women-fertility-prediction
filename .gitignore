@@ -17,10 +17,12 @@ artifacts/
 data/raw/
 data/processed/
 
+# Gradio temporary files
+.gradio/
+
 # BUT keep our bundled serving model in the repo
 !src/serving/model/
 !src/serving/model/**
 
 CLAUDE.md
-
 
