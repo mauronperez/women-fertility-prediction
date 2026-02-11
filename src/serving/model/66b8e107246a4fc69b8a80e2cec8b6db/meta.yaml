@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mauroperez/Desktop/Telco-Customer-Churn-ML/mlruns/728902490302612590/66b8e107246a4fc69b8a80e2cec8b6db/artifacts
+end_time: 1770132306960
+entry_point_name: ''
+experiment_id: '728902490302612590'
+lifecycle_stage: active
+run_id: 66b8e107246a4fc69b8a80e2cec8b6db
+run_name: grandiose-colt-395
+run_uuid: 66b8e107246a4fc69b8a80e2cec8b6db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770132304323
+status: 3
+tags: []
+user_id: mauroperez

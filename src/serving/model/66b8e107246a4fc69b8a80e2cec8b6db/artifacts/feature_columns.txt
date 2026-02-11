@@ -1,0 +1,8 @@
+age
+married
+housing_payment
+level_studies
+income
+number_living
+job
+house_income
